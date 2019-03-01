@@ -32,6 +32,8 @@
 ![](img/perfect-art-1.png)
 ![](img/perfect-art-2.png)
 
+В файле perfect-art-example.ipynb находится jupyter notebook с примерами подключения к серверу.
+
 ---
 
 ## Извлечение именованных сущностей
